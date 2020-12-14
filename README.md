@@ -5,6 +5,8 @@ When I wanted to look at one of my notes previously, I had to open vim => open m
 This weekend I thought, wouldn't it be great if a tiny mouse named after the Egyptian goddess of libraries would simply fetch me exactly the not I wanted?
 So I made Seshat :)
 
+I've used the *difflib* *get_close_matches* library so if you type the title of the note you want but mess up slightly Seshat can figure out what you want.
+
 The next thing I will do with it is to make the echo'd text apear in the speach bubble of an ascii mouse. Currently you have to imagine the mouse part.
 
 Things you will have to do it get it running:
@@ -13,6 +15,9 @@ Things you will have to do it get it running:
 3. run `which zsh` and update the bang at the top of the close_matches.py file to that output
 4. Change the word 'Lore' to whatever your name is in Seshat.sh
 5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'
+
+image:
+![Seshat terminal output](https://ibb.co/3k2gqZc)
 
 I am on ubuntu and use zsh, you may need to make some adjustments if you are not. 
 
