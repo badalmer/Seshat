@@ -16,7 +16,6 @@ Things you will have to do it get it running:
 4. Change the word 'Lore' to whatever your name is in Seshat.sh
 5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'
 
-image:
 ![Seshat terminal output](Screenshot.png?raw=true)
 
 I am on ubuntu and use zsh, you may need to make some adjustments if you are not. 
