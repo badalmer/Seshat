@@ -17,6 +17,7 @@ Things you will have to do it get it running:
 5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'`
 
 ![Seshat terminal output](Screenshot.png?raw=true)
+
 *btw it says took 12 seconds because thats how long I had the vim file open for
 
 I am on ubuntu and use zsh, you may need to make some adjustments if you do not. 
