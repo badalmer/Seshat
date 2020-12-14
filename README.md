@@ -1,5 +1,5 @@
 # Seshat
-I take notes using vimwiki and created this script to open any of my notes quickly no mater what folder I was in on my terminal
+I take notes using [Vimwiki](https://github.com/vimwiki/vimwiki) and created this script to open any of my notes quickly no mater what folder I was in on my terminal
 
 When I wanted to look at one of my notes previously, I had to *open vim => open my wiki file => look for the note I wanted => open it*, then I could read it.
 This weekend I thought, wouldn't it be great if a tiny mouse named after the Egyptian goddess of libraries would simply fetch me exactly the note I wanted?
@@ -17,6 +17,7 @@ Things you will have to do it get it running:
 5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'`
 
 ![Seshat terminal output](Screenshot.png?raw=true)
+*btw it says took 12 seconds because thats how long I had the vim file open for
 
 I am on ubuntu and use zsh, you may need to make some adjustments if you do not. 
 
