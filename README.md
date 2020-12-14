@@ -17,7 +17,7 @@ Things you will have to do it get it running:
 5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'
 
 image:
-![Seshat terminal output](https://github.com/loreerol/Seshat/blob/main/screenshot.png?raw=true)
+![Seshat terminal output](Screenshot.png?raw=true)
 
 I am on ubuntu and use zsh, you may need to make some adjustments if you are not. 
 
