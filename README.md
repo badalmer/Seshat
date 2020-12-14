@@ -14,7 +14,7 @@ Things you will have to do it get it running:
 2. run `which python` and update the bang at the top of the **close_matches.py** file to that output
 3. run `which zsh` and update the bang at the top of the **Seshat.sh** file to that output
 4. Change the word 'Lore' to whatever your name is in Seshat.sh
-5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'
+5. In your .zshrc add in the line `alias seshat='. ~/Seshat/Seshat.sh'`
 
 ![Seshat terminal output](Screenshot.png?raw=true)
 
